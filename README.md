@@ -1,2 +1,2 @@
-# portfolio-do-koly
+# portfolio do školy
 portfolio do školy
